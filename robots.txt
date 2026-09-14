@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erfanasadiyan1-web.github.io/taxify/sitemap.xml
